@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.blue-container {
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  height: 40vh;
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  color: white;
+}
+
+.bg-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
